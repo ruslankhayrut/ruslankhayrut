@@ -1,6 +1,6 @@
 ### Python developer
 
-![](https://komarev.com/ghpvc/?username=ruslankhayrut&color=grey)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslankhayrut&show_icons=true)
 
 
 <!---
